@@ -88,6 +88,7 @@ It generates text.txt and train.txt (with 80% / 20% of training and validation d
 - names needs path to your *.names file.
 
  - backup is where we can store the weights files as the training progresses.
+ 
  ![image](https://user-images.githubusercontent.com/59696434/81464676-e0063000-91ed-11ea-95da-d3ad50ec97e7.png)
 
 ## **7. Edit yolo-obj.cfg file**
