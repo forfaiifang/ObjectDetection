@@ -118,3 +118,5 @@ Start training:
 **Example**
 
     ./darknet detector train build/darknet/x64/data/obj.data build/darknet/x64/data/ yolov3-voc.cfg .cfg darknet53.conv.74 -map
+
+Here are my final model weights for Thai household object detection. [\[weights file\]](https://emailpsuac-my.sharepoint.com/:u:/g/personal/5910110212_email_psu_ac_th/Eafp--Eme5BEhD3FHJ-kArkBK4U7oHOF7-br6-erwXs1Nw)
